@@ -62,3 +62,4 @@ int movie(void);
 * @brief display the detail of the booked ticket.
 */
 void details(void);
+#endif /* #define _FUNCTION_H__ */
