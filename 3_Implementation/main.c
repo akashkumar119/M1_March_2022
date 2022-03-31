@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"moviedetails.c"
-#include"decleration.c" 
+#include"function.h" 
 #include<strings.h>
 #include "unity.h"
 struct moviedetails person[300];
