@@ -1,5 +1,5 @@
 #include "unity.h"
-#include "declaration.c"
+#include "function.h"
 
 void setUp()
 {
